@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Edmund Wright
+email: edmundewright@gmail.com
+url: xneophyte.github.io
+description: "Edmund Wright is technologist and maker with a passion for curiosity and learning. A versatile problem solver who blends a background in electronics and software development with industry experience in product R&D and industrial automation."
+keywords: "Edmund Wright, Edmund, Wright, Software, Architect, Engineer"
+skills: "Software Architecture - New Product R&D - Industrial Automation"
+meta_author: Wright Edmund
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Edmund E. Wright II
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/edisawesome
   - title: facebook
     url:
   - title: stack-overflow
@@ -48,12 +48,11 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/xNeophyte
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Chicago, IL. USA
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
