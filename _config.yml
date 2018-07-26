@@ -51,7 +51,7 @@ address:
   - line: Chicago, IL. USA
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'A <a href="https://jekyllrb.com/">Jekyll</a> theme based on the<br /><a href="https://startbootstrap.com/template-overviews/freelancer/"> Freelancer Bootstrap theme</a>.<br />Check out the site <a href="https://github.com/xNeophyte/xNeophyte.github.io">Source</a>.'
 
 # Build settings
 markdown: kramdown
